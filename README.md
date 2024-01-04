@@ -1,8 +1,8 @@
-# React + Vite
+## Welcome to the best quotes gen every made (trust me)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Installation and Usage
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- `git clone https://github.com/Joseph-Barnett/Python_Quotes_Api_Client`
+- open in respective code editor
+- `npm i` in terminal
+- `npm run dev` in terminal, app runs on (http://localhost:5173/)
