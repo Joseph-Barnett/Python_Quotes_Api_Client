@@ -1,4 +1,4 @@
-## Welcome to the best quotes gen every made (trust me)
+## Welcome to the best quotes gen ever made (trust me)
 
 # Installation and Usage
 
